@@ -1,9 +1,11 @@
 devops
+CI/CD
+AIOps
 
+ai
 大模型
 LLM
-
-DeepSeek
+人工智能
 
 谷歌
 google
@@ -14,17 +16,17 @@ chatgpt
 openai
 sora
 
+编码大模型
+codex
+cursor
 claude
 ClaudeCode
 Anthropic
 
+国产大模型
+DeepSeek
 豆包
-
 通义
 
-ai
-人工智能
 
-CI/CD
 
-AIOps
