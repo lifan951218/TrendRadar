@@ -1,5 +1,8 @@
 devops
 
+大模型
+LLM
+
 DeepSeek
 
 谷歌
@@ -12,7 +15,16 @@ openai
 sora
 
 claude
+ClaudeCode
 Anthropic
+
+豆包
+
+通义
 
 ai
 人工智能
+
+CI/CD
+
+AIOps
